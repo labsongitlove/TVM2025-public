@@ -9,7 +9,7 @@
         },
         {
             "label": "build",
-            "command": "pnpm",
+            "command": "pnpm.cmd",
             "args": ["--aggregate-output", "-r", "build"],
 //            "options": {"cwd": "${fileDirname}/../"},
             
